@@ -1,0 +1,12 @@
+---
+title: I love blogging
+---
+
+Some content.
+
+
+```{r}
+head(mtcars)
+```
+
+And so on.
